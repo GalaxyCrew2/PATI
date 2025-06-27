@@ -14,6 +14,20 @@ This repository contains engineering materials of a self-driven vehicle's model 
 * `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It may include documentation how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc. If there is nothing to add to this location, the directory can be removed.
 
 ## Introduction
+![image](https://github.com/user-attachments/assets/9b39b335-64cd-4e1c-87e3-95a1fc8858e8)
+![image](https://github.com/user-attachments/assets/77175d54-5f0e-4367-9211-374541b25cee)
+![image](https://github.com/user-attachments/assets/cc851ca7-8e22-4628-919a-c22a60e21a02)
+![image](https://github.com/user-attachments/assets/3d06fa44-f337-4cd5-b9ba-b97691211a10)
+![image](https://github.com/user-attachments/assets/3ac54f17-5230-40d6-a9cf-6c80667f4cc0)
+![image](https://github.com/user-attachments/assets/ff1efca9-b626-4831-89a3-99624239abc9)
+![image](https://github.com/user-attachments/assets/d78b711b-c59f-425c-a16b-2f9765c67c27)
+![image](https://github.com/user-attachments/assets/cabd2073-fa79-422b-8304-7aaaa186f579)
+![image](https://github.com/user-attachments/assets/cb8379af-5a8f-4ecd-936e-db2785b83886)
+![image](https://github.com/user-attachments/assets/4ecc08a8-b5ef-4d14-bb21-97b0802ac0b2)
+![image](https://github.com/user-attachments/assets/64de984c-ee42-4e35-bb33-b2d4d1969b77)
+![image](https://github.com/user-attachments/assets/dc898211-6b7d-405e-9565-e00115b36338)
+
+
 
 ![image](https://github.com/user-attachments/assets/55ae5040-df7f-416f-91b3-cd1f56ccffb8)
 ![image](https://github.com/user-attachments/assets/3d7d27c1-0002-4c7d-a40a-e6f59723ffd2)
