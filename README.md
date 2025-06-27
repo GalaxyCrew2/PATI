@@ -26,6 +26,9 @@ This repository contains engineering materials of a self-driven vehicle's model 
 ![image](https://github.com/user-attachments/assets/4ecc08a8-b5ef-4d14-bb21-97b0802ac0b2)
 ![image](https://github.com/user-attachments/assets/64de984c-ee42-4e35-bb33-b2d4d1969b77)
 ![image](https://github.com/user-attachments/assets/dc898211-6b7d-405e-9565-e00115b36338)
+![image](https://github.com/user-attachments/assets/ed60589c-f0db-4763-8802-24a2ac1ce099)
+![image](https://github.com/user-attachments/assets/2444bcf4-0090-43cd-963b-b2e0042feb84)
+![image](https://github.com/user-attachments/assets/5bbe4c5f-c69d-417b-9204-9e3b6110c42e)
 
 
 
