@@ -1,22 +1,26 @@
 Vehicle's photos
 ===============================================
 
-![image](https://github.com/user-attachments/assets/c2170f7f-c632-4c19-9910-f031f73b98f9)
+<img width="1128" height="1025" alt="image" src="https://github.com/user-attachments/assets/a0dea093-4947-4cba-b7db-7387d795ec30" />
+
 -Front view
 
 
-![image](https://github.com/user-attachments/assets/fccd75a3-636a-42d0-a345-3ca7d43c03de)
+<img width="1272" height="1101" alt="image" src="https://github.com/user-attachments/assets/b5db2ad5-a9b8-41a7-b755-104408fd0aee" />
+
 -Rear view
 
 
-![image](https://github.com/user-attachments/assets/10841a09-f863-4a3a-9a03-b8446e6300e0)
-![image](https://github.com/user-attachments/assets/25721afa-b5a9-4b2e-95bb-d8eca4e167dc)
+<img width="1258" height="913" alt="image" src="https://github.com/user-attachments/assets/d9d264f2-469c-4177-bb15-89cd3911bc25" />
+<img width="1205" height="900" alt="image" src="https://github.com/user-attachments/assets/6dbe4fad-a5e5-45d7-907a-c26774fd3f6b" />
+
 -Side views
 
 
-![image](https://github.com/user-attachments/assets/b73f2c9a-fe8f-430a-b698-befb36e8b6a6)
+<img width="1015" height="1233" alt="image" src="https://github.com/user-attachments/assets/16b87b64-81a2-4c0f-8668-62e76790c65f" />
+
 -Top view
 
+<img width="1073" height="1221" alt="image" src="https://github.com/user-attachments/assets/efafc9fd-aa05-4c9b-aa72-6ecd1ff636ec" />
 
-![image](https://github.com/user-attachments/assets/428b8c67-abf6-4154-adf6-ba88c0728f8d)
 -Bottom view
