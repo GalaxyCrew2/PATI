@@ -1,4 +1,4 @@
 Electromechanical diagrams
-====
 
-This directory must contain one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
+Diagrama de la ronda 1
+<img width="792" height="537" alt="image" src="https://github.com/user-attachments/assets/0afb6648-8aec-4579-b43c-93a57441ad87" />
