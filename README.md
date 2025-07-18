@@ -54,7 +54,7 @@ We weren't able to do much today either. The graduating seniors had their soccer
 Engineering materials
 ====
 
-This are the engineering materials of our self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2025.
+This are the engineering materials of our self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2025. And here is also the images of the 3D model of our vehicle's model.
 
 ![image](https://github.com/user-attachments/assets/9b39b335-64cd-4e1c-87e3-95a1fc8858e8)
 ![image](https://github.com/user-attachments/assets/77175d54-5f0e-4367-9211-374541b25cee)
