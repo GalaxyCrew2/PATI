@@ -1,15 +1,6 @@
 REPOSITORY 
 ====
 
-## Content
-
-* `t-photos` contains 2 photos of the team (an official one and one funny photo with all team members)
-* `v-photos` contains 6 photos of the vehicle (from every side, from top and bottom)
-* `video` contains the video.md file with the link to a video where driving demonstration exists
-* `schemes` contains one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
-* `src` contains code of control software for all components which were programmed to participate in the competition
-* `models` is for the files for models used by 3D printers, laser cutting machines and CNC machines to produce the vehicle elements. If there is nothing to add to this location, the directory can be removed.
-* `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It may include documentation how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc. If there is nothing to add to this location, the directory can be removed.
 
 ## Introduction
 
@@ -20,6 +11,17 @@ Here, you will find the design of our vehicle, the programming and component con
 Our primary goal is to qualify for the national competition, enjoy every step of the way, and create lasting memories together while learning and growing as future engineers.
 
 
+## Content
+
+Below, we present the information contained in each folder in our repository.
+
+* `t-photos` contains 3 photos of the team.
+* `v-photos` contains 6 photos of the vehicle, from every side.
+* `video` here are the videos of the two rounds (the open challenge and the one with obstacles).
+* `schemes` in here we have the several schematic diagrams in pictures of the electromechanical components illustrating all the elements used in the vehicle and how they connect to each other. And also, the schematic diagram of the programming of the open challenge round.
+* `src` contains code of control software for all components which were programmed to participate in the competition
+* `models` is where we have the 3D model of our self-driven vehicle.
+* `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It may include documentation how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc. If there is nothing to add to this location, the directory can be removed.
 
 ## Learnign Log
 
@@ -80,7 +82,7 @@ We weren't able to do much today either. The graduating seniors had their soccer
 Engineering materials
 ====
 
-This are the engineering materials of our self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2025. And here is also the images of the 3D model of our vehicle's model.
+This are the engineering materials of our self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2025. And here is also the images of the 3D model of our vehicle's model. However, you can download the model 3D in the models file, to have a better perspective of our vehicle.
 
 ![image](https://github.com/user-attachments/assets/9b39b335-64cd-4e1c-87e3-95a1fc8858e8)
 ![image](https://github.com/user-attachments/assets/77175d54-5f0e-4367-9211-374541b25cee)
