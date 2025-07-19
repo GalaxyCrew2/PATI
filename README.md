@@ -19,7 +19,7 @@ Below, we present the information contained in each folder in our repository.
 * `v-photos` contains 6 photos of the vehicle, from every side.
 * `video` here are the videos of the two rounds (the open challenge and the one with obstacles).
 * `schemes` in here we have the several schematic diagrams in pictures of the electromechanical components illustrating all the elements used in the vehicle and how they connect to each other. And also, the schematic diagram of the programming of the open challenge round.
-* `src` contains code of control software for all components which were programmed to participate in the competition
+* `src` here is the code of control software for all components which were programmed to participate in the competition.
 * `models` is where we have the 3D model of our self-driven vehicle.
 * `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It may include documentation how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc. If there is nothing to add to this location, the directory can be removed.
 
