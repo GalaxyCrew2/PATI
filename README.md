@@ -13,8 +13,11 @@ REPOSITORY
 
 ## Introduction
 
+Welcome to the repository of PATTY, a team participating in the World Robotics Olympiad (WRO) in the Future Engineers category. We are a group of university students who embarked on this exciting journey a few months ago, driven by a passion for robotics, innovation, and teamwork.
 
+Here, you will find the design of our vehicle, the programming and component connection diagrams (including sensors, motors, and hub), the 3D model, various versions of the developed code, and other key resources that are integral to our creative and technical process.
 
+Our primary goal is to qualify for the national competition, enjoy every step of the way, and create lasting memories together while learning and growing as future engineers.
 
 
 
