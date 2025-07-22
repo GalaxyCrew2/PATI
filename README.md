@@ -15,7 +15,7 @@ Our primary goal is to qualify for the national competition, enjoy every step of
 
 Below, we present the information contained in each folder in our repository.
 
-* `t-photos` contains 3 photos of the team.
+* `t-photos` contains 2 photos of the team.
 * `v-photos` contains 6 photos of the vehicle, from every side.
 * `video` here are the videos of the two rounds (the open challenge and the one with obstacles).
 * `schemes` in here we have the several schematic diagrams in pictures of the electromechanical components illustrating all the elements used in the vehicle and how they connect to each other. And also, the schematic diagram of the programming of the open challenge round.
