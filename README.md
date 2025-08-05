@@ -43,5 +43,5 @@ We hope you find it useful, interesting, or at least that it reflects the effort
 
 With gratitude,
 
-— Team PATI
+— Team PATTY
 
