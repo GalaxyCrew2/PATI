@@ -3,9 +3,11 @@ Control software
 
 * `Code of the open challenge round`
 
-<img width="582" height="442" alt="image" src="https://github.com/user-attachments/assets/31f68fce-4759-40e3-88a7-ea8a6ab961b2" />
+<img width="802" height="452" alt="image" src="https://github.com/user-attachments/assets/8105aa1e-07e2-4c28-8af6-9e7bc4370b6e" />
 
-<img width="585" height="390" alt="image" src="https://github.com/user-attachments/assets/94056777-bcdd-4d09-862d-5ed12cc5369c" />
+
+<img width="857" height="458" alt="image" src="https://github.com/user-attachments/assets/64f8dbb7-d4ef-4014-9aa8-2ecfb07d32e3" />
+
 
 
 
