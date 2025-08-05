@@ -1,4 +1,7 @@
 Open challenge round flowchart
 ====
 
-![ControlMovimiento1](https://github.com/user-attachments/assets/79a7bf20-c8f7-4861-83c3-5b9f8e45759c)
+<img width="1164" height="630" alt="image" src="https://github.com/user-attachments/assets/1d8babce-abac-4db2-8911-0128283eb0f1" />
+
+<img width="1139" height="630" alt="image" src="https://github.com/user-attachments/assets/a1e4ccbc-0cf8-48f6-8c3a-28a430c86286" />
+
