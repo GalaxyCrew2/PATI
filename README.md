@@ -1,8 +1,6 @@
 REPOSITORY 
 ====
 
-![image](https://github.com/user-attachments/assets/56a16be1-b1c3-440c-9329-030ba3353d92) 
----
 ## Introduction
 
 Welcome to the repository of PATTY, a team participating in the World Robotics Olympiad (WRO) in the Future Engineers category. We are a group of university students who embarked on this exciting journey a few months ago, driven by a passion for robotics, innovation, and teamwork.
