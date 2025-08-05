@@ -42,5 +42,6 @@ Thank you for taking the time to visit and explore our work.
 We hope you find it useful, interesting, or at least that it reflects the effort we put into creating it.
 
 With gratitude,
+
 — Team PATI
 
