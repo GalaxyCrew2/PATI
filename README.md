@@ -13,7 +13,7 @@ Our primary goal is to qualify for the national competition, enjoy every step of
 
 ## Content
 
-Below, we present the information contained in each folder in our repository.
+Below, we present the information contained in each directory in our repository.
 
 * `3D Model` here is where we have the 3D model of our self-driven vehicle, images, and other components.
   - `3D Model File` contains the file of the 3D model.
