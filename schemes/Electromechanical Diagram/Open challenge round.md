@@ -1,4 +1,4 @@
 Open Challenge round diagram
 ====
 
-<img width="711" height="528" alt="image" src="https://github.com/user-attachments/assets/e4daa508-251d-4636-82cb-daac9f817c3f" />
+<img width="1600" height="967" alt="image" src="https://github.com/user-attachments/assets/a118b140-05bc-4889-ae6c-4e2825de43ae" />
