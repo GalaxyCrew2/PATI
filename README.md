@@ -21,7 +21,7 @@ Below, we present the information contained in each directory in our repository.
 * `Code` here are the codes of control software for all components which were programmed to participate in the competition.
 * `Project-log` contains the learning log, vehicle and team photos.
   - `Photos` it contains the 2 photos of the team, and the 6 photos of the vehicle, from every side.
-* `other` contains the materials of our self-driven vehicle.
+* `other` contains the materials of our self-driven vehicle and the instructions to build it.
 * `schemes` in here we have the several schematic diagrams in pictures of the electromechanical components illustrating all the elements used in the vehicle and how they connect to each other. And also, the schematic diagram of the codes.
   - `Electromechanical Diagram` in here are the electromechanical diagrams of the components used in the vehicle in the two different rounds.
   - `Flowchart`contains the flowcharts of the codes.
