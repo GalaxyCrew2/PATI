@@ -1,7 +1,7 @@
 Control Software
 ====
 
-* Obstacle challenge round
+* `Code of the obstacle challenge round`
 
 
 <img width="533" height="536" alt="image" src="https://github.com/user-attachments/assets/cfae7856-a16f-45ac-b8f4-5b0c7b4a3dd2" />
