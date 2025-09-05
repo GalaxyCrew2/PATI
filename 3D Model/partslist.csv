@@ -1,0 +1,39 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+18651,6089119,18651,"Technic, Axle  2L with Pin with Friction Ridges",11,0,Black,Solid Colors,5,0.32
+2780,6279875,2780,"Technic, Pin with Short Friction Ridges",11,0,Black,Solid Colors,2,0.16
+32073,4211639,32073,"Technic, Axle  5L",86,71,Light Bluish Gray,Solid Colors,5,0.66
+4265c,6271167,4265c,Technic Bush 1/2 Smooth,3,14,Yellow,Solid Colors,10,0.1
+32184,6276981,32184,"Technic, Axle and Pin Connector Perpendicular 3L with Center Pin Hole",1,15,White,Solid Colors,6,0.64
+32270,4177431,32270,"Technic, Gear 12 Tooth Double Bevel",11,0,Black,Solid Colors,2,0.58
+32498,4255563,32498,"Technic, Gear 36 Tooth Double Bevel",11,0,Black,Solid Colors,2,3.5
+32523,4153707,32523,"Technic, Liftarm Thick 1 x 3",3,14,Yellow,Solid Colors,6,0.7
+32524,6261638,32524,"Technic, Liftarm Thick 1 x 7",156,322,Medium Azure,Solid Colors,10,1.74
+32525,6261634,32525,"Technic, Liftarm Thick 1 x 11",71,26,Magenta,Solid Colors,7,0
+32526,6173003,32526,"Technic, Liftarm, Modified Bent Thick L-Shape 3 x 5",156,322,Medium Azure,Solid Colors,2,0
+3713,6275844,3713,Technic Bush,86,71,Light Bluish Gray,Solid Colors,4,0.14
+37316c01,6217717,37316c01,"Electric Sensor, Distance - SPIKE Prime",11,0,Black,Solid Colors,2,0
+3749,4666579,3749,"Technic, Axle  1L with Pin without Friction Ridges",2,19,Tan,Solid Colors,9,0.22
+39367pb01,6253244,39367pb01,Wheel 56 x 14 Technic with Axle Hole and 8 Pin Holes with Molded Medium Azure Hard Rubber Tire Pattern,11,0,Black,Solid Colors,4,0
+39790,6245375,39790,"Technic, Liftarm, Modified Frame Thick 11 x 15 Open Center",156,322,Medium Azure,Solid Colors,1,0
+39793,6265644,39793,"Technic, Pin Connector Block, Liftarm 1 x 3 x 3",11,0,Black,Solid Colors,4,0
+39793,6252656,39793,"Technic, Pin Connector Block, Liftarm 1 x 3 x 3",71,26,Magenta,Solid Colors,7,0
+39794,6252663,39794,"Technic, Liftarm, Modified Frame Thick 7 x 11 Open Center",71,26,Magenta,Solid Colors,2,0
+40490,4645732,40490,"Technic, Liftarm Thick 1 x 9",11,0,Black,Solid Colors,4,2.59
+41239,6261643,41239,"Technic, Liftarm Thick 1 x 13",156,322,Medium Azure,Solid Colors,3,3.3
+4459,,4459,"Technic, Pin with Long Friction Ridges",11,0,Black,Solid Colors,72,0.19
+4519,6130007,4519,"Technic, Axle  3L",3,14,Yellow,Solid Colors,3,0.43
+46372,6259270,46372,"Technic, Gear 28 Tooth Double Bevel",86,71,Light Bluish Gray,Solid Colors,4,0
+48989,6282158,48989,"Technic, Pin Connector Perpendicular 3L with 4 Pins",86,71,Light Bluish Gray,Solid Colors,5,1.22
+49283,6263072,49283,"Technic, Axle and Wire Connector",6,2,Green,Solid Colors,2,0
+49283,6263071,49283,"Technic, Axle and Wire Connector",7,1,Blue,Solid Colors,1,0
+49283,6263192,49283,"Technic, Axle and Wire Connector",156,322,Medium Azure,Solid Colors,2,0
+49283,6263069,49283,"Technic, Axle and Wire Connector",3,14,Yellow,Solid Colors,2,0
+54675c01,6265698,54675c01,"Electric, Motor SPIKE Prime / Powered Up, Large Angular with White Top Housing and Cable",156,322,Medium Azure,Solid Colors,2,0
+54696c01,6266099,54696c01,"Electric, Motor SPIKE Prime / Powered Up, Medium Angular with White Top Housing and Cable",156,322,Medium Azure,Solid Colors,1,0
+55422c01,6266358,55422c01,Electric Rechargeable Battery 7.3V Large - SPIKE Prime,3,14,Yellow,Solid Colors,1,0
+55615,6313453,55615,"Technic, Pin Connector Perpendicular 3 x 3 Bent with 4 Pins",86,71,Light Bluish Gray,Solid Colors,2,1.9
+6558,6299413,6558,"Technic, Pin 3L with Friction Ridges",7,1,Blue,Solid Colors,16,0.31
+53444c01,6263561,53444c01,"Electric, Hub Large - SPIKE Prime",3,14,Yellow,Solid Colors,1,0
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+211,92.45,,,,,,,,
