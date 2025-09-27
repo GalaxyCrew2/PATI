@@ -96,3 +96,33 @@ This log records the progress, changes, and challenges we experienced throughout
 - **Progress:**  
   - We made progress on the programming flowchart for the Open Challenge round.  
   - We also took team photos to include in the repository.
+
+Thursday, September 21
+We updated and created a new program, fixing the issues from the previous version. One of the sensors was removed to optimize functionality.
+
+Friday, September 22
+We modified the wheels to make them more compact and prevent them from coming off during operation.
+
+Thursday, September 28
+We adjusted the robot’s structure to fit the newly modified wheels.
+
+Friday, September 29
+We tested the robot and noticed that the wheels were still malfunctioning. We attempted to fix the issue.
+
+Thursday, October 4
+We successfully fixed the wheel problem, reinforced the structure, and ensured the gears no longer came loose.
+
+Friday, October 5
+We worked on the project repository, updating and modifying the existing files.
+
+Friday, October 12
+We focused on improving the robot's turning mechanism.
+
+Friday, October 19
+We replaced the turning motor to achieve more precise and faster rotation.
+
+Friday, October 26
+We reviewed the project document and added the missing observations.
+
+Saturday, October 27
+We fine-tuned the programming, fixing the collision issue during turns and improving the turning time. We also finalized and printed the physical documentation.
