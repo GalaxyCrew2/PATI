@@ -50,7 +50,7 @@ Main Behaviors of the Robot:
 -This decision-making process helps the robot navigate complex paths and confined spaces effectively.
 
 ---
-5. Moves forward when no obstacles are detected nearby:
+4. Moves forward when no obstacles are detected nearby:
 
 -If the robot detects no nearby obstacles (all distances greater than 15 cm), it continues moving forward in a straight line, advancing a fixed distance at a time (e.g., 10 cm).
 
