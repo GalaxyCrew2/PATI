@@ -2,17 +2,20 @@ Control software
 ====
 
 * `Code of the open challenge round`
+
 Purpose of the Program:
 ---
+
 The main objective of this program is to enable the robot to behave autonomously and intelligently in an unfamiliar or dynamic environment. By using distance sensing and simple logic, the robot can:
 
-Detect and avoid obstacles.
+-Detect and avoid obstacles.
 
-Choose optimal directions to continue moving.
+-Choose optimal directions to continue moving.
 
-Stop safely when it reaches the end of its path.
+-Stop safely when it reaches the end of its path.
 
 This kind of program is often used in educational robotics projects to demonstrate basic concepts in autonomous navigation, sensor integration, and decision-making logic.
+
 ---
 <img width="472" height="557" alt="image" src="https://github.com/user-attachments/assets/b06a27ef-0819-404b-901f-0e8c1fd3d1e1" />
 
@@ -60,6 +63,7 @@ Main Behaviors of the Robot:
 -It then stops all movement, effectively ending its task and preventing any collisions.
 
 -This behavior serves as a safety measure and a logical end condition for the program.
+
 ---
 
 
