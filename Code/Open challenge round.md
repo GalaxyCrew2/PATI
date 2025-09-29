@@ -1,8 +1,6 @@
 Control software
 ====
 
-* `Code of the open challenge round`
-
 Purpose of the Program:
 ---
 
@@ -15,6 +13,9 @@ The main objective of this program is to enable the robot to behave autonomously
 -Stop safely when it reaches the end of its path.
 
 ---
+
+* `Code of the open challenge round`
+  
 <img width="472" height="557" alt="image" src="https://github.com/user-attachments/assets/b06a27ef-0819-404b-901f-0e8c1fd3d1e1" />
 
 ---
