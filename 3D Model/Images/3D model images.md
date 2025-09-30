@@ -1,18 +1,33 @@
 Images of the 3D Model
 ====
+<img width="800" height="600" alt="Patty_Half_Finished" src="https://github.com/user-attachments/assets/e5839d0e-bf0c-42a1-b9d2-a71bb9b6cfcc" />
+
+----
 
 Here are the images of the 3D model of our vehicle's model. However, you can download the model 3D in the 3D Model file located in this same directory, so you can have a better perspective of our vehicle.
 
----
+----
 
+<img width="423" height="352" alt="image" src="https://github.com/user-attachments/assets/736731a6-b494-481f-b6f7-d2f9b4cf95ba" />
 
-![image](https://github.com/user-attachments/assets/3d7d27c1-0002-4c7d-a40a-e6f59723ffd2)
----
-![image](https://github.com/user-attachments/assets/9f862bdc-296b-4cf0-83a1-32b6760f9c43)
----
-![image](https://github.com/user-attachments/assets/ecc093a7-8365-4468-a252-d9d352d96657)
----
-![image](https://github.com/user-attachments/assets/2ab0b323-c735-494b-9106-31dd3834eb13)
----
-![image](https://github.com/user-attachments/assets/55ae5040-df7f-416f-91b3-cd1f56ccffb8)
----
+----
+
+<img width="460" height="289" alt="image" src="https://github.com/user-attachments/assets/a1371279-15f0-4658-9bf0-60b4a27c277e" />
+
+----
+
+<img width="352" height="250" alt="image" src="https://github.com/user-attachments/assets/b0307f15-ceee-41c1-9779-fc7838099e4b" />
+
+----
+
+<img width="458" height="265" alt="image" src="https://github.com/user-attachments/assets/728449b0-6b91-498f-8a77-8504da1821f8" />
+
+----
+
+<img width="347" height="437" alt="image" src="https://github.com/user-attachments/assets/2e5d6b4b-00f6-44ba-9703-8d88b1ca2ff6" />
+
+----
+
+<img width="386" height="464" alt="image" src="https://github.com/user-attachments/assets/9beb21b2-f460-43c8-afbc-cd47d47cc25d" />
+
+----
