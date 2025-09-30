@@ -28,6 +28,6 @@ Here are the images of the 3D model of our vehicle's model. However, you can dow
 
 ----
 
-<img width="386" height="464" alt="image" src="https://github.com/user-attachments/assets/9beb21b2-f460-43c8-afbc-cd47d47cc25d" />
+<img width="439" height="494" alt="image" src="https://github.com/user-attachments/assets/0951dab6-9f52-4067-bb90-c0e7f9328c04" />
 
 ----
